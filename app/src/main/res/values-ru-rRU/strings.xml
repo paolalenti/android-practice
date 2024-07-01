@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ДомашнееЗадание1</string>
+    <string name="send_number_btn">Отправить</string>
+    <string name="header_tv">Количество участников гонки</string>
+</resources>

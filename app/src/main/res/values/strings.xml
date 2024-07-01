@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework1</string>
+    <string name="send_number_btn">Send</string>
+    <string name="header_tv">Number of race participants</string>
+</resources>
